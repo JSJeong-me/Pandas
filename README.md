@@ -1,1 +1,1 @@
-# Pandas 실습과정
+# Pandas 실습 7주 과정
